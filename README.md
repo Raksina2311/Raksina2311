@@ -36,7 +36,7 @@
 ---
 
 ### 📊 GitHub Stats
-*(หมายเหตุ: อย่าลืมเปลี่ยนคำว่า `YOUR_GITHUB_USERNAME` เป็น Username ของคุณ)*
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Raksina2311&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
