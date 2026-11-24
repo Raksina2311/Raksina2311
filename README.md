@@ -8,6 +8,16 @@
 
 ---
 
+raksina = {
+    "university": "Kasetsart University",
+    "major": "Computer Science",
+    "interests": ["Web Development", "Software Engineering", "Problem Solving"],
+    "currently_learning": "Building real-world projects",
+    "fun_fact": "Coffee + Code = Productivity ☕💻"
+}
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**
