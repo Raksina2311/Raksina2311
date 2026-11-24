@@ -38,7 +38,6 @@
 
 ---
 
-```python
 raksina = {
     "university": "Kasetsart University",
     "major": "Computer Science",
