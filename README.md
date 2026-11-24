@@ -39,6 +39,6 @@
 *(หมายเหตุ: อย่าลืมเปลี่ยนคำว่า `YOUR_GITHUB_USERNAME` เป็น Username ของคุณ)*
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raksina2311&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raksina2311&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
