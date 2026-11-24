@@ -2,8 +2,8 @@
 
 **[CS Student]** ที่หลงใหลในการสร้างสรรค์โซลูชันและเขียนโค้ดที่สะอาดตา (Clean Code)
 
-- 🔭 ปัจจุบันกำลังทำโปรเจกต์: **[ชื่อโปรเจกต์หรือสิ่งที่กำลังพัฒนา]**
 - 🌱 กำลังศึกษา: **เทคโนโลยีสารสนเทศ [IT]**
+- 🖥️ เป้าหมาย: **มุ่งมั่นพัฒนาทักษะการเขียนโค้ดให้มีประสิทธิภาพ เพื่อสร้างซอฟต์แวร์ที่ใช้งานได้จริงและแก้ปัญหาให้ผู้คนได้**
 - 📫 ช่องทางติดต่อ: **raksina.f@ku.th** 
 
 ---
@@ -27,12 +27,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- **[ชื่อโปรเจกต์ที่ 1](ลิงก์ไปยัง Repo):** คำอธิบายสั้นๆ 1 บรรทัดว่าโปรเจกต์นี้แก้ปัญหาอะไร และใช้ Tech อะไรบ้าง
-- **[ชื่อโปรเจกต์ที่ 2](ลิงก์ไปยัง Repo):** คำอธิบายสั้นๆ 1 บรรทัด พร้อมไฮไลต์ฟีเจอร์เด่น
-
----
 
 ### 📊 GitHub Stats
 
@@ -41,3 +35,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Raksina2311&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raksina2311&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
+
+---
+
+```python
+raksina = {
+    "university": "Kasetsart University",
+    "major": "Computer Science",
+    "interests": ["Web Development", "Software Engineering", "Problem Solving"],
+    "currently_learning": "Building real-world projects",
+    "fun_fact": "Coffee + Code = Productivity ☕💻"
+}
+```
